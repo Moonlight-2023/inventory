@@ -70,3 +70,4 @@ function RectangularCubicArea (l,h,w){
     return(intArea)
 }
 console.log(RectangularCubicArea(6,8,5))
+console.log("Morgh")
